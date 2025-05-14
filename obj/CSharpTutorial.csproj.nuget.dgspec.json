@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manee\\OneDrive\\Pictures\\Projects\\CSharpTutorial\\CSharpTutorial.csproj": {}
+    "c:\\Users\\manee\\OneDrive\\Pictures\\Projects\\CSharpTutorial\\CSharpTutorial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manee\\OneDrive\\Pictures\\Projects\\CSharpTutorial\\CSharpTutorial.csproj": {
+    "c:\\Users\\manee\\OneDrive\\Pictures\\Projects\\CSharpTutorial\\CSharpTutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manee\\OneDrive\\Pictures\\Projects\\CSharpTutorial\\CSharpTutorial.csproj",
+        "projectUniqueName": "c:\\Users\\manee\\OneDrive\\Pictures\\Projects\\CSharpTutorial\\CSharpTutorial.csproj",
         "projectName": "CSharpTutorial",
-        "projectPath": "C:\\Users\\manee\\OneDrive\\Pictures\\Projects\\CSharpTutorial\\CSharpTutorial.csproj",
+        "projectPath": "c:\\Users\\manee\\OneDrive\\Pictures\\Projects\\CSharpTutorial\\CSharpTutorial.csproj",
         "packagesPath": "C:\\Users\\manee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manee\\OneDrive\\Pictures\\Projects\\CSharpTutorial\\obj\\",
+        "outputPath": "c:\\Users\\manee\\OneDrive\\Pictures\\Projects\\CSharpTutorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manee\\AppData\\Roaming\\NuGet\\NuGet.Config"
