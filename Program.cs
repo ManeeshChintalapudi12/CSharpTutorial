@@ -1,7 +1,7 @@
-internal class Program
-{
-    public static void Main(string[] args)
+ internal class Program
     {
-        CsharpMethods.MyMethod();
+        public static void Main(string[] args)
+        {
+            ClassMembers.MyObject();  
+        }
     }
-}
