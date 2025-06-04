@@ -18,21 +18,29 @@
 
     // }
 
-    //DataTypes
-    {
-        DataTypes data = new DataTypes();
-        data.Integer();
+    // //DataTypes
+    // {
+    //     DataTypes data = new DataTypes();
+    //     data.Integer();
 
-        data.Long();
+    //     data.Long();
 
-        data.Float();
+    //     data.Float();
 
-        data.Double();
+    //     data.Double();
 
-        data.Char();
+    //     data.Char();
 
-        data.String();
+    //     data.String();
 
-        data.Boolean();
-    }
+    //     data.Boolean();
+    // }
+
+    // //TypeCasting
+    // {
+    //     TypeCasting data = new TypeCasting();
+    //     data.Implict();
+
+    //     data.Explict();
+    // }
 }
