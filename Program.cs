@@ -1,46 +1,61 @@
 ﻿internal class Program
 {
     private static void Main(string[] args)
-    // {
-    //     // (Variables)
-    //     // Console.WriteLine("Hello, World!");
+    {
+        // //     // (Variables)
+        //     Console.WriteLine("Hello, World!");
 
-    //     // Variables variables = new Variables();
-    //     // variables.Integer();
+        //     Variables variables = new Variables();
+        //     variables.Integer();
 
-    //     // variables.Double();
+        //     variables.Double();
 
-    //     // variables.Char();
+        //     variables.Char();
 
-    //     // variables.String();
+        //     variables.String();
 
-    //     // variables.Boolean();
+        //     variables.Boolean();
 
-    // }
+        // }
 
-    // //DataTypes
-    // {
-    //     DataTypes data = new DataTypes();
-    //     data.Integer();
+        // //DataTypes
+        // {
+        //     DataTypes data = new DataTypes();
+        //     data.Integer();
 
-    //     data.Long();
+        //     data.Long();
 
-    //     data.Float();
+        //     data.Float();
 
-    //     data.Double();
+        //     data.Double();
 
-    //     data.Char();
+        //     data.Char();
 
-    //     data.String();
+        //     data.String();
 
-    //     data.Boolean();
-    // }
+        //     data.Boolean();
+        // }
 
-    // //TypeCasting
-    // {
-    //     TypeCasting data = new TypeCasting();
-    //     data.Implict();
+        //     // //TypeCasting
+        //     {
+        //         TypeCasting data = new TypeCasting();
+        //         data.Implict();
 
-    //     data.Explict();
-    // }
+        //         data.Explict();
+        //     }
+
+        // Operators
+
+        Operators data = new Operators();
+        data.Add();
+
+        data.Sub();
+
+        data.Div();
+
+        data.Multi();
+
+    }    
+                
+
 }
