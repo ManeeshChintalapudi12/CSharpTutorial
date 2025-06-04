@@ -79,9 +79,16 @@ internal class Program
         //     Conditional data = new Conditional();
         //     data.Statments();
 
-        // Switch
-        Switch data = new Switch();
-        data.Statments();
-    }
+        //     // Switch
+        //     Switch data = new Switch();
+        //     data.Statments();
+
+        // //While Loop
+        // While data = new While();
+        // data.Condition();
+
+        // data.State();
+
+     }
 
 }
