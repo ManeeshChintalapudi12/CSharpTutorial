@@ -68,7 +68,10 @@
         // data.Figure();
 
         //Strings
-        
+        Strings data = new Strings();
+        data.Concatination();
+
+        data.Interpolation();
     }
 
 }
