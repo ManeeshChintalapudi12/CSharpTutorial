@@ -44,18 +44,31 @@
         //         data.Explict();
         //     }
 
-        // Operators
+        //     // Operators
 
-        Operators data = new Operators();
-        data.Add();
+        //     Operators data = new Operators();
+        //     data.Add();
 
-        data.Sub();
+        //     data.Sub();
 
-        data.Div();
+        //     data.Div();
 
-        data.Multi();
+        //     data.Multi();
 
-    }    
-                
+        // }    
+
+        // //MathOperations
+        // MathOperation data = new MathOperation();
+        // data.Maximum();
+
+        // data.Minimum();
+
+        // data.SquareRoot();
+
+        // data.Figure();
+
+        //Strings
+        
+    }
 
 }
