@@ -1,22 +1,38 @@
 ﻿internal class Program
 {
     private static void Main(string[] args)
+    // {
+    //     // (Variables)
+    //     // Console.WriteLine("Hello, World!");
+
+    //     // Variables variables = new Variables();
+    //     // variables.Integer();
+
+    //     // variables.Double();
+
+    //     // variables.Char();
+
+    //     // variables.String();
+
+    //     // variables.Boolean();
+
+    // }
+
+    //DataTypes
     {
-        Console.WriteLine("Hello, World!");
+        DataTypes data = new DataTypes();
+        data.Integer();
 
-        Variables variables = new Variables();
-        variables.Integer();
+        data.Long();
 
-        Variables obj = new Variables();
-        obj.Double();
+        data.Float();
 
-        Variables name = new Variables();
-        name.Char();
+        data.Double();
 
-        Variables myName = new Variables();
-        myName.String();
+        data.Char();
 
-        Variables mybool = new Variables();
-        mybool.Boolean();
+        data.String();
+
+        data.Boolean();
     }
 }
