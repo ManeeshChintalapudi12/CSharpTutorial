@@ -1,4 +1,6 @@
-﻿internal class Program
+﻿using System.Diagnostics;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
@@ -73,8 +75,12 @@
 
         // data.Interpolation();
 
-        //Conditional Statments
-        Conditional data = new Conditional();
+        //     //Conditional Statments
+        //     Conditional data = new Conditional();
+        //     data.Statments();
+
+        // Switch
+        Switch data = new Switch();
         data.Statments();
     }
 
