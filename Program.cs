@@ -67,11 +67,15 @@
 
         // data.Figure();
 
-        //Strings
-        Strings data = new Strings();
-        data.Concatination();
+        // //Strings
+        // Strings data = new Strings();
+        // data.Concatination();
 
-        data.Interpolation();
+        // data.Interpolation();
+
+        //Conditional Statments
+        Conditional data = new Conditional();
+        data.Statments();
     }
 
 }
