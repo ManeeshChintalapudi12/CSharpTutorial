@@ -97,9 +97,15 @@ internal class Program
         // Break data = new Break();
         // data.Loop();
 
-        // Continue
-        Continue data = new Continue();
-        data.Loop();
+        // // Continue
+        // Continue data = new Continue();
+        // data.Loop();
+
+        // Arrays
+        Arrays data = new Arrays();
+        data.Method();
+
+        data.Extract();
      }
 
 }
