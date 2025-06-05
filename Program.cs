@@ -102,10 +102,26 @@ internal class Program
         // data.Loop();
 
         // Arrays
-        Arrays data = new Arrays();
-        data.Method();
+        //     Arrays data = new Arrays();
+        //     data.Method();
 
-        data.Extract();
-     }
+        //     data.Extract();
+
+        //Methods
+        Methods data = new Methods();
+        data.Greet();
+
+        data.Welcome("King");
+
+        data.ShowDetails("Chicago");
+
+        int sum = data.Add(10, 20);
+        Console.WriteLine("Sum: " + sum);
+
+        data.DisplayInfo(age: 25, name: "Aparna");
+
+        data.PrintMessage();
+        data.PrintMessage("Hello");
+    }
 
 }
