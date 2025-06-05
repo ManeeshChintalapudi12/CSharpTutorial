@@ -98,7 +98,8 @@ internal class Program
         // data.Loop();
 
         // Continue
-
+        Continue data = new Continue();
+        data.Loop();
      }
 
 }
