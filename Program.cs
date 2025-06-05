@@ -89,9 +89,15 @@ internal class Program
 
         // data.State();
 
-        //For Loop
-        For data = new For();
-        data.Loop();
+        // //For Loop
+        // For data = new For();
+        // data.Loop();
+
+        // //Break
+        // Break data = new Break();
+        // data.Loop();
+
+        // Continue
 
      }
 
