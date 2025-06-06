@@ -131,9 +131,14 @@ internal class Program
         // ClassMembers MyObj = new ClassMembers();
         // MyObj.Method();
 
-        //Constructer
-        Car MyObj = new Car();
-        MyObj.Main();
+        // //Constructer
+        // Car MyObj = new Car();
+        // MyObj.Main();
+
+        //Modifiers
+        Modifiers MyObj = new Modifiers();
+        MyObj.Model();
     }
+
 
 }
