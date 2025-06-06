@@ -163,9 +163,12 @@ internal class Program
         // EnumExample obj = new EnumExample();
         // obj.Method();
 
-        //Files
-        Files data = new Files();
+        // //Files
+        // Files data = new Files();
+        // data.Data();
+
+        //Exceptions
+        Exceptions data = new Exceptions();
         data.Data();
-              
     }
 }
