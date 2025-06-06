@@ -107,21 +107,25 @@ internal class Program
 
         //     data.Extract();
 
-        //Methods
-        Methods data = new Methods();
-        data.Greet();
+        // //Methods
+        // Methods data = new Methods();
+        // data.Greet();
 
-        data.Welcome("King");
+        // data.Welcome("King");
 
-        data.ShowDetails("Chicago");
+        // data.ShowDetails("Chicago");
 
-        int sum = data.Add(10, 20);
-        Console.WriteLine("Sum: " + sum);
+        // int sum = data.Add(10, 20);
+        // Console.WriteLine("Sum: " + sum);
 
-        data.DisplayInfo(age: 25, name: "Aparna");
+        // data.DisplayInfo(age: 25, name: "Aparna");
 
-        data.PrintMessage();
-        data.PrintMessage("Hello");
+        // data.PrintMessage();
+        // data.PrintMessage("Hello");
+
+        // //Class
+        // Class MyObj = new Class();
+        // MyObj.Method();
     }
 
 }

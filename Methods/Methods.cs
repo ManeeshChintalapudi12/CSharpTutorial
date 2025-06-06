@@ -9,7 +9,6 @@ public class Methods
         Console.WriteLine($"Welcome, {name}!");
     }
 
-
     public void ShowDetails(string city = "New York")
     {
         Console.WriteLine($"City: {city}");
