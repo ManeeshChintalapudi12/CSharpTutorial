@@ -139,10 +139,14 @@ internal class Program
         // Modifiers MyObj = new Modifiers();
         // MyObj.Model();
 
-        //Properities
-        Properties MyObj = new Properties();
-        MyObj.Method();
+        // //Properities
+        // Properties MyObj = new Properties();
+        // MyObj.Method();
+
+        //Inheritance
+       Model myCar = new Model();
+        myCar.Honk();        
+        myCar.DisplayInfo();
+              
     }
-
-
 }
