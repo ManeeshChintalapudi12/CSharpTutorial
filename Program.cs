@@ -154,8 +154,9 @@ internal class Program
 
         // myobj.Company();
 
-        //Abstraction
-        Pigs myobj = new Pigs();
+
+        // Interface
+        Pig myobj = new Pig();
         myobj.animalSound();
               
     }
