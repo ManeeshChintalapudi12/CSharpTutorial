@@ -135,9 +135,13 @@ internal class Program
         // Car MyObj = new Car();
         // MyObj.Main();
 
-        //Modifiers
-        Modifiers MyObj = new Modifiers();
-        MyObj.Model();
+        // //Modifiers
+        // Modifiers MyObj = new Modifiers();
+        // MyObj.Model();
+
+        //Properities
+        Properties MyObj = new Properties();
+        MyObj.Method();
     }
 
 
