@@ -159,9 +159,13 @@ internal class Program
         // Pig myobj = new Pig();
         // myobj.animalSound();
 
-        //Enums
-        EnumExample obj = new EnumExample();
-        obj.Method();
+        // //Enums
+        // EnumExample obj = new EnumExample();
+        // obj.Method();
+
+        //Files
+        Files data = new Files();
+        data.Data();
               
     }
 }
