@@ -144,9 +144,15 @@ internal class Program
         // MyObj.Method();
 
         //Inheritance
-       Model myCar = new Model();
-        myCar.Honk();        
-        myCar.DisplayInfo();
+        //    Model myCar = new Model();
+        //     myCar.Honk();        
+        //     myCar.DisplayInfo();
+
+        //Polymorphism
+        Inher myobj = new Inher();
+        myobj.Method();
+
+        myobj.Company();
               
     }
 }
