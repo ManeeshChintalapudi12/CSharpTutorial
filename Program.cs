@@ -126,6 +126,10 @@ internal class Program
         // //Class
         // Class MyObj = new Class();
         // MyObj.Method();
+
+        //ClassMembers
+        ClassMembers MyObj = new ClassMembers();
+        MyObj.Method();
     }
 
 }
