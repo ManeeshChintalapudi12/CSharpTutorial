@@ -148,11 +148,15 @@ internal class Program
         //     myCar.Honk();        
         //     myCar.DisplayInfo();
 
-        //Polymorphism
-        Inher myobj = new Inher();
-        myobj.Method();
+        // //Polymorphism
+        // Inher myobj = new Inher();
+        // myobj.Method();
 
-        myobj.Company();
+        // myobj.Company();
+
+        //Abstraction
+        Pigs myobj = new Pigs();
+        myobj.animalSound();
               
     }
 }
